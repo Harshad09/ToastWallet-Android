@@ -1,0 +1,3 @@
+include ':ToastWallet'
+include ':app'
+rootProject.name = "ToastWalletExample"
