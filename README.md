@@ -11,7 +11,7 @@
 	<img src="https://github.com/Harshad09/ToastWallet-Android/blob/main/screenshots/Toast.svg" width="128">
 </div>
 
-A Android library to create nice Toasts. 
+An Android library to create nice Toasts. 
 
 ## Prerequisites
 
